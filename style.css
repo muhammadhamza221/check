@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: black;
+}
+.navbar-brand:hover{
+    color: royalblue;
+}
+
+.me-2{
+    font-family: 'Rubik', sans-serif;
+}
+
+.me-2:hover {
+
+    border: 2px solid royalblue
+
+}
+
+.main{
+    background: url(./lunchcopy.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+
+.main h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: royalblue;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.image-new{
+    height: 20vh;
+    width: 100px;
+}
+
+.pro-image{
+    height: 30vh;
+    width: 200px;
+}
